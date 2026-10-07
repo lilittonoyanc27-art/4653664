@@ -1,0 +1,6 @@
+{
+  "name": "Español Activo: Ser, Estar y Colores",
+  "description": "Интерактивный тренажёр испанского языка с правилами, упражнениями, подробным разбором цветов (включая жёлтый и оранжевый), разговорным конструктором и русским переводом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
